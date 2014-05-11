@@ -1,3 +1,4 @@
-##add text to files accordingly.
-
-refer to list.json
+# WHAT NODE IS NOT?
+- Full stack web framework
+- MVC framework
+- Pre-bundled with database 
